@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(118, 146, 206);
+}
+main{
+    background-color: white;
+    border-radius: 15px;
+    height:400px;
+    width: 230px;
+    padding:8px;
+    margin: 150px auto;
+    text-align: center;
+}
+img{
+    width:230px;
+    height:250px;
+    border-radius: 15px;
+    margin:0 auto;
+    display: block;
+}
+main p:first-of-type{
+    font-size: 20px;
+    margin:15px auto;
+    color: rgb(39, 39, 151);
+}
+main p:last-of-type{
+    font-size: 12px;
+    margin:15px auto;
+    width:190px;
+    color: rgb(173, 170, 170);
+}
